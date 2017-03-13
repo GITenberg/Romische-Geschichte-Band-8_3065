@@ -1,5 +1,8 @@
 _repo: Romische-Geschichte-Band-8_3065
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mommsen, Theodor
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1105
     wikipedia: http://en.wikipedia.org/wiki/Theodor_Mommsen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3065#Romische-Geschichte-Band-8
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2002-02-01'
 gutenberg_type: Text
